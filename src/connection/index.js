@@ -11,8 +11,8 @@ const sepolia = {
 };
 
 const metadata = {
-    name: "My Website",
-    description: "My Website description",
+    name: "TheMarketingCoder Ballot",
+    description: "TheMarketingCoder Web3 Balloting Website",
     url: "https://mywebsite.com", // origin must match your domain & subdomain
     icons: ["https://avatars.mywebsite.com/"],
 };
